@@ -46,10 +46,6 @@ ribbon_plot <- function(weatherdata, type = "temp", current_year){
     facet_wrap(~station, nrow = 3)
 }
 
-ribbon_plot(weatherdata, type = "rainfall", current_year = 2023)
-
-
-
 
 
 

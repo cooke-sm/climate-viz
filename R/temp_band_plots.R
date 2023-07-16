@@ -1,5 +1,7 @@
 library(tidyverse)
 
+weatherdata <- read_csv("~/climate-viz/data/weatherdata.csv")
+
 
 colour <- c("#BCD2E8",'#91BAD6', '#73A5C6', '#528AAE','#2E5984', '#1E3F66')
 heat <- c('#B31313','#FF9000','#FDDA16','#FFEE82')
@@ -32,7 +34,7 @@ weatherdata %>%
        caption = "@CookeComms | Met Office Weather Station Data")+
   ylab("Monthly average temp (deg C)")+
   theme(axis.text.x = element_blank(),
-        axis.title.x = element_blank()) ->plot1
+        axis.title.x = element_blank())
 
 #rainfall
 weatherdata %>% 
@@ -51,7 +53,7 @@ weatherdata %>%
        caption = "@CookeComms | Met Office Weather Station Data")+
   ylab("Monthly average rainfall (mm)")+
   theme(axis.text.x = element_blank(),
-        axis.title.x = element_blank())->plot2
+        axis.title.x = element_blank())
 
 
 ggsave("temp_facets.png", plot1, device = "png", height = 1500, width = 2600, units = 'px', dpi = 320, bg = "white")  

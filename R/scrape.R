@@ -28,8 +28,6 @@ weather_data_reader <-  function(url){
 #function call to scrape and map to a tibble
 data <- map_dfr(regionurls,weather_data_reader)
 
-setwd("~/Climate/WeatherApp/data")
-
 #Clean the data. The function call above needed to have all columns the same type so seemed easier to clean the set afterwards.
 data %>% 
   mutate(year = parse_number(year),
@@ -43,7 +41,5 @@ data %>%
          station = parse_factor(station)) %>% 
   drop_na(year) -> weatherdata
 
-levels(weatherdata$station)
-
 weatherdata %>% 
-  write_csv('weatherdata.csv')
+  write_csv('~/climate-viz/data/weatherdata.csv')
