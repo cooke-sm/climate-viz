@@ -988,6 +988,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,11.9,5.9,0,40.8,142.1,Aberporth
 2023,5,15,9.2,0,20.8,235,Aberporth
 2023,6,20.1,12.9,0,22.6,231,Aberporth
+2023,7,18.3,12.8,0,84.4,132.3,Aberporth
 1853,2,NA,NA,NA,32.3,NA,Armagh
 1853,3,NA,NA,NA,65.5,NA,Armagh
 1853,4,NA,NA,NA,46.2,NA,Armagh
@@ -3033,6 +3034,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,13.4,5.2,2,64.6,131.2,Armagh
 2023,5,17.8,8.3,0,28,170.6,Armagh
 2023,6,22.4,11.9,0,42.8,225.5,Armagh
+2023,7,18.7,11.8,0,139.6,92.1,Armagh
 1961,8,15.9,8.7,0,NA,NA,Ballypatrick
 1961,9,15.8,8.5,0,NA,NA,Ballypatrick
 1961,10,12.1,5.8,0,NA,NA,Ballypatrick
@@ -3776,6 +3778,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,11.3,4.7,2,107.8,NA,Ballypatrick
 2023,5,14.4,6.8,0,72.4,NA,Ballypatrick
 2023,6,19.6,10.9,0,67.4,NA,Ballypatrick
+2023,7,16.9,10.7,0,170.4,NA,Ballypatrick
 1908,2,7.3,1.9,8,NA,71.9,Bradford
 1908,3,6.2,0.3,13,NA,101.4,Bradford
 1908,4,8.6,2.1,5,NA,128.6,Bradford
@@ -5161,6 +5164,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.4,4.5,3,66.6,146,Bradford
 2023,5,17.3,7.9,0,22.8,201.9,Bradford
 2023,6,21.6,11.6,0,40.4,241.9,Bradford
+2023,7,19.2,12.2,0,128.2,134.2,Bradford
 1959,1,1.7,-5.7,27,NA,34.2,Braemar
 1959,2,6.2,-3.2,15,NA,68.6,Braemar
 1959,3,7.6,0.8,7,NA,80.9,Braemar
@@ -5935,6 +5939,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,10.1,0.6,11,68.6,NA,Braemar
 2023,5,15.4,5,2,26.6,NA,Braemar
 2023,6,20.5,6.8,0,36.6,NA,Braemar
+2023,7,17.1,8.1,0,100.6,NA,Braemar
 1978,10,15.6,10.7,0,20.4,NA,Camborne
 1978,11,12.6,7.6,0,56.3,NA,Camborne
 1978,12,9.2,5,5,276.7,NA,Camborne
@@ -6472,6 +6477,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.5,7.2,0,80.4,137.8,Camborne
 2023,5,15.8,9.6,0,48.6,280.4,Camborne
 2023,6,19.9,13.8,0,20.4,216.4,Camborne
+2023,7,18.5,13.8,0,113,137.6,Camborne
 1959,2,7.5,1.2,9,NA,66,Cambridge
 1959,3,11.5,3.8,0,NA,98,Cambridge
 1959,4,14.3,5.4,0,NA,146.1,Cambridge
@@ -7245,6 +7251,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,14,4.8,2,41.8,NA,Cambridge
 2023,5,17.2,8,0,55.7,NA,Cambridge
 2023,6,24,11.3,0,25,NA,Cambridge
+2023,7,22.6,12.6,0,62.8,NA,Cambridge
 1977,10,15.4,9,0,76,80.4,Cardiff
 1977,11,10.3,4.7,4,147.9,76.4,Cardiff
 1977,12,9.6,4.6,2,88,25.6,Cardiff
@@ -7794,6 +7801,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,14,5.7,0,119,NA,Cardiff
 2023,5,19.4,9,0,53.2,NA,Cardiff
 2023,6,23.6,13.4,0,15.2,NA,Cardiff
+2023,7,20.6,13.1,0,185.6,NA,Cardiff
 1951,2,8.3,2.8,NA,96.3,105.2,Chivenor
 1951,3,8.6,3.5,NA,102.1,104.9,Chivenor
 1951,4,11.4,4.2,NA,94.2,225.1,Chivenor
@@ -8603,6 +8611,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,13.6,6.2,0,66.8,NA,Chivenor
 2023,5,18.1,8.9,0,57,NA,Chivenor
 2023,6,22.4,12.9,0,27.4,NA,Chivenor
+2023,7,19.8,13.7,0,103.8,NA,Chivenor
 1959,2,7.3,0.9,15,NA,87.2,Cwmystwyth
 1959,3,8.4,3.1,3,NA,81.6,Cwmystwyth
 1959,4,10.8,3.7,1,NA,107.4,Cwmystwyth
@@ -9844,6 +9853,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.8,5.2,1,71.4,NA,Dunstaffnage
 2023,5,16.1,8.8,0,26.2,NA,Dunstaffnage
 2023,6,21.5,11.6,0,98,NA,Dunstaffnage
+2023,7,18.3,11.8,0,124.8,NA,Dunstaffnage
 1880,2,8.7,0.6,12,44.3,NA,Durham
 1880,3,9.2,1,12,32.5,NA,Durham
 1880,4,11.6,2.7,2,51.5,NA,Durham
@@ -11565,6 +11575,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12,4,2,50,NA,Durham
 2023,5,17.1,7.4,0,28,NA,Durham
 2023,6,20.7,10.3,0,50.4,NA,Durham
+2023,7,19.6,11.8,0,113.6,NA,Durham
 1959,2,6.6,2,4,0,73.4,Eastbourne
 1959,3,10.4,5.1,0,43,128.4,Eastbourne
 1959,4,12.7,7.3,0,62.5,163.5,Eastbourne
@@ -12338,6 +12349,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.6,6.2,0,73.3,153.7,Eastbourne
 2023,5,16.7,9.3,0,19.6,218.6,Eastbourne
 2023,6,22.4,14,0,30.5,264.8,Eastbourne
+2023,7,20.1,14.8,0,77.4,202,Eastbourne
 1911,2,NA,NA,NA,233.6,NA,Eskdalemuir
 1911,3,NA,NA,NA,73.5,NA,Eskdalemuir
 1911,4,NA,NA,NA,172.4,NA,Eskdalemuir
@@ -13687,6 +13699,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,11.3,2,8,67.4,138.1,Eskdalemuir
 2023,5,16.2,5.8,0,38.7,174,Eskdalemuir
 2023,6,20.9,8.8,0,105.4,229,Eskdalemuir
+2023,7,17.4,9.6,0,222,86.2,Eskdalemuir
 1948,2,7.9,2.2,NA,26,NA,Heathrow
 1948,3,14.2,3.8,NA,14,NA,Heathrow
 1948,4,15.4,5.1,NA,35,NA,Heathrow
@@ -14592,6 +14605,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,14.6,5.9,0,65.8,151.1,Heathrow
 2023,5,18.6,9.3,0,38.4,196.6,Heathrow
 2023,6,25.3,13.5,0,56.8,250.2,Heathrow
+2023,7,22.9,14,0,61.4,150.1,Heathrow
 1957,2,9.6,2.7,8,100.5,NA,Hurn
 1957,3,12.9,5.5,4,61.3,NA,Hurn
 1957,4,14.2,4.4,2,5.5,NA,Hurn
@@ -15389,6 +15403,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,13.7,4,6,65.6,160.4,Hurn
 2023,5,19,7.5,0,51.4,249.6,Hurn
 2023,6,23.9,11.9,0,23.2,294.1,Hurn
+2023,7,21.1,12.8,0,93.4,153.9,Hurn
 1931,1,4.9,0.2,13,108,29.7,Lerwick
 1931,2,4.4,-0.3,12,138.3,52.6,Lerwick
 1931,3,4.2,-1,17,18.2,135.7,Lerwick
@@ -16499,6 +16514,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,8.5,4,0,65,151.3,Lerwick
 2023,5,10.5,6.4,0,43.6,101.5,Lerwick
 2023,6,15.1,9.9,0,31.8,163.6,Lerwick
+2023,7,15,10.5,0,138,116.1,Lerwick
 1957,2,6.9,0.1,15,85.7,92,Leuchars
 1957,3,10.4,4.6,0,38.5,78.2,Leuchars
 1957,4,11.9,4.5,1,11.6,164.3,Leuchars
@@ -17296,6 +17312,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,11.3,3.7,4,38.6,154.8,Leuchars
 2023,5,15.2,7.1,0,23,157.2,Leuchars
 2023,6,18.6,10.9,0,40,198.7,Leuchars
+2023,7,19.1,11,0,104.6,172,Leuchars
 1914,1,5.2,0.7,NA,52,NA,Lowestoft
 1914,2,9.2,3.5,NA,28,NA,Lowestoft
 1914,3,NA,NA,NA,NA,NA,Lowestoft
@@ -18598,6 +18615,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,11.8,5.1,1,51.8,210.3,Lowestoft
 2023,5,14.6,8.6,0,45.6,213.7,Lowestoft
 2023,6,21,12.7,0,18.2,250.9,Lowestoft
+2023,7,21.9,13.7,0,130,205.6,Lowestoft
 1934,8,20.8,12.1,NA,51.6,NA,Manston
 1934,9,20.4,10.8,NA,25.4,NA,Manston
 1934,10,14.6,8.2,NA,56.1,NA,Manston
@@ -19581,6 +19599,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12,5.6,0,57.2,190.9,Manston
 2023,5,15.5,8.9,0,15.2,246.2,Manston
 2023,6,21.9,12.9,0,22.8,276.8,Manston
+2023,7,21.9,13.6,0,82,184.1,Manston
 1931,1,5,0.6,11,78.4,43.4,Nairn
 1931,2,6.7,0.7,7,48.9,63.6,Nairn
 1931,3,6.2,-1.5,19,37.6,145.4,Nairn
@@ -20691,6 +20710,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.1,3.2,3,30.2,189.7,Nairn
 2023,5,15.8,7.4,0,24.8,184,Nairn
 2023,6,20.9,10.3,0,46.5,271,Nairn
+2023,7,18.4,10.4,0,65.9,149.3,Nairn
 1959,2,7.4,0.5,13,NA,70.3,Newton
 1959,3,9.5,2.9,3,NA,85.5,Newton
 1959,4,11.4,3.7,2,NA,129.1,Newton
@@ -21464,6 +21484,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.3,3.6,4,54.9,NA,Newton
 2023,5,17.3,7.1,0,23.2,NA,Newton
 2023,6,21.7,10.4,0,65.6,NA,Newton
+2023,7,18.6,11.5,0,130.7,NA,Newton
 1853,2,3.2,-1.8,19,29.3,NA,Oxford
 1853,3,7.7,-0.6,20,25.9,NA,Oxford
 1853,4,12.6,4.5,0,60.1,NA,Oxford
@@ -23509,6 +23530,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,13.7,5.1,1,65.9,154.7,Oxford
 2023,5,18.3,8.4,0,51.2,221.5,Oxford
 2023,6,23.8,12.1,0,40.5,226.1,Oxford
+2023,7,21.5,13,0,99.9,171,Oxford
 1959,2,6.6,2.1,10,41.8,17.8,Paisley
 1959,3,10.6,4.2,0,50.9,85.7,Paisley
 1959,4,13,5.2,0,76.3,125.1,Paisley
@@ -24282,6 +24304,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,13.5,4.9,1,48.1,167.4,Paisley
 2023,5,17.7,8.9,0,31.7,195.9,Paisley
 2023,6,22.5,11.8,0,56.6,242.2,Paisley
+2023,7,19.6,12.5,0,125.4,138.5,Paisley
 1946,2,NA,NA,NA,NA,58.2,Ringway
 1946,3,NA,NA,NA,NA,109.8,Ringway
 1946,4,NA,NA,NA,NA,136.3,Ringway
@@ -26097,6 +26120,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,13.5,4.6,2,62.2,148.5,Ross-On-Wye
 2023,5,19.1,7.9,0,33.8,247.3,Ross-On-Wye
 2023,6,23.7,12.4,0,37.8,209.1,Ross-On-Wye
+2023,7,20.7,12.6,0,63.2,138.9,Ross-On-Wye
 1946,2,NA,NA,NA,74.2,71.4,Shawbury
 1946,3,NA,NA,NA,19.8,125,Shawbury
 1946,4,NA,NA,NA,22.3,178.3,Shawbury
@@ -27026,6 +27050,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.7,4.5,4,49.6,132.3,Shawbury
 2023,5,17.6,7.2,0,18.4,220.7,Shawbury
 2023,6,22.6,11.3,0,39,213.2,Shawbury
+2023,7,20.1,11.6,0,110.2,115.7,Shawbury
 1883,2,8,2.8,2,69.8,NA,Sheffield
 1883,3,4.8,-1.6,23,29.6,NA,Sheffield
 1883,4,12.2,3.8,2,74,NA,Sheffield
@@ -28711,6 +28736,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.8,5,2,63.8,127,Sheffield
 2023,5,17.9,8.9,0,18.6,186.4,Sheffield
 2023,6,22.2,12.1,0,35.6,206.6,Sheffield
+2023,7,20.1,12.6,0,162,112.2,Sheffield
 1855,1,5,0.5,16,NA,NA,Southampton
 1855,2,2.4,-3.5,21,54.3,NA,Southampton
 1855,3,7.9,0.8,12,61.3,NA,Southampton
@@ -32253,6 +32279,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,11,5.2,1,45.2,150.3,Stornoway
 2023,5,14.1,8,0,30.4,123.5,Stornoway
 2023,6,17.5,11.3,0,47.6,209.5,Stornoway
+2023,7,16.7,10.9,0,127,120.2,Stornoway
 1959,2,7,0.9,11,NA,54,Sutton
 1959,3,10.7,3.2,2,NA,80.7,Sutton
 1959,4,13.8,5.1,0,NA,148.1,Sutton
@@ -33026,6 +33053,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.9,4.5,3,65.4,NA,Sutton
 2023,5,17.1,7.8,0,43.4,NA,Sutton
 2023,6,22,11.4,0,90.8,NA,Sutton
+2023,7,20.6,12.3,0,82.4,NA,Sutton
 1928,2,NA,NA,NA,NA,59.2,Tiree
 1928,3,NA,NA,NA,NA,96.4,Tiree
 1928,4,NA,NA,NA,NA,183.6,Tiree
@@ -34171,6 +34199,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,11.3,5.7,0,86.8,193.6,Tiree
 2023,5,13.7,8.5,0,33,182.3,Tiree
 2023,6,18.3,11.4,0,78.2,274.6,Tiree
+2023,7,16.9,11.5,0,118.6,168.1,Tiree
 1931,1,8,4.2,0,66.2,63.8,Valley
 1931,2,7.6,3.7,0,60.6,74.1,Valley
 1931,3,8.5,2.4,6,32.5,130.3,Valley
@@ -35281,6 +35310,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.4,6.3,0,36,172.8,Valley
 2023,5,16.6,9.7,0,27.4,277.6,Valley
 2023,6,21.1,13.1,0,24.4,286.9,Valley
+2023,7,18.6,13.6,0,112.8,158.3,Valley
 1947,2,-0.6,-3.8,NA,19,24.7,Waddington
 1947,3,6.2,0,NA,95,73.7,Waddington
 1947,4,12.6,4.7,NA,43,161.7,Waddington
@@ -36198,6 +36228,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,12.7,4.8,1,52.8,167,Waddington
 2023,5,17,8.4,0,37,198.1,Waddington
 2023,6,22,12,0,25.4,237.5,Waddington
+2023,7,20.8,12.5,0,108.8,149.6,Waddington
 1961,9,18.6,10,0,26.9,NA,Whitby
 1961,10,14,7.7,0,74.3,NA,Whitby
 1961,11,8.9,4.3,4,19.1,NA,Whitby
@@ -36940,6 +36971,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,11.4,4.7,2,73.9,155.8,Whitby
 2023,5,16.1,8.1,0,16.6,176.9,Whitby
 2023,6,19.9,10.5,0,47,224.2,Whitby
+2023,7,20.6,12.4,0,120.1,199,Whitby
 1914,2,7.7,2.3,NA,66,NA,Wick
 1914,3,6.4,1.1,NA,76.7,NA,Wick
 1914,4,10.8,4.4,NA,27.9,NA,Wick
@@ -38253,6 +38285,7 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,9.7,4.1,4,46.6,NA,Wick
 2023,5,12.8,7,0,36.4,NA,Wick
 2023,6,16.6,10.3,0,91.2,NA,Wick
+2023,7,16,10,0,69.2,NA,Wick
 1964,10,13.6,4.2,5,77.8,NA,Yeovilton
 1964,11,11.8,4.7,3,45.5,NA,Yeovilton
 1964,12,7.7,0.1,17,65.1,NA,Yeovilton
@@ -38958,3 +38991,4 @@ year,month,temp_max,temp_min,frost_days,rain_mm,sun,station
 2023,4,13.7,4.6,4,59.6,137.3,Yeovilton
 2023,5,18.5,7.5,0,68.4,231.1,Yeovilton
 2023,6,23.4,12,0,22.8,254.9,Yeovilton
+2023,7,20.7,12.9,0,96,132.5,Yeovilton

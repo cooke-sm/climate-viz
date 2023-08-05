@@ -2,7 +2,7 @@ library(tidyverse)
 library(showtext)
 
 
-#font_add_google(name = "Rubik", family = "rubik") # if you need to install the font
+font_add_google(name = "Rubik", family = "rubik") # if you need to install the font
 showtext_auto()
 
 colour <- c("#BCD2E8",'#91BAD6', '#73A5C6', '#528AAE','#2E5984', '#1E3F66')
